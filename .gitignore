@@ -1,3 +1,6 @@
 *.gitignore
 *.idea
 SE-Project/
+go/day02.md
+go/day03.md
+go/mock.md
